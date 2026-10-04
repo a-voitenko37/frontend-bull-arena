@@ -1,6 +1,6 @@
 import './App.css'
-import ArenaWithBull from './components/ArenaWithBull'
-import { Matador } from './components/Matador'
+import ArenaWithBull from './components/ArenaWithBull.js'
+import { Matador } from './components/Matador.js'
 
 function App() {
   return (

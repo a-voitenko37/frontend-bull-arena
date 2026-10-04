@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import Bull from "./Bull";
+import Bull from "./Bull/index.js";
 
 interface ArenaWithBullProps {
     matador: React.ReactElement;
